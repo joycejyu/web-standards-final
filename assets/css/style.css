@@ -1,0 +1,9 @@
+.jumbotron {
+	margin-top: 100px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+	width: 33.333%;
+}
